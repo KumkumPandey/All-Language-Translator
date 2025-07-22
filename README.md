@@ -67,7 +67,7 @@ npm run dev
 
 text
 
-Visit: [http://localhost:5173](http://localhost:5173) to view the app in your browser.
+Visit: (http://localhost:8080/) to view the app in your browser.
 
 ---
 
