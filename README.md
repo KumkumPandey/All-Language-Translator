@@ -67,7 +67,7 @@ npm run dev
 
 text
 
-Visit: (http://localhost:8080/) to view the app in your browser.
+Visit: (all-language-translator.netlify.app) to view the app in your browser.
 
 ---
 
