@@ -67,7 +67,7 @@ npm run dev
 
 text
 
-Visit: (all-language-translator.netlify.app) to view the app in your browser.
+Visit: [all-language-translator.netlify.app](https://all-language-translator.netlify.app/) to view the app in your browser.
 
 ---
 
